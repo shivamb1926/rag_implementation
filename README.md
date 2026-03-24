@@ -30,3 +30,5 @@ Text Generation: Phi-2 (via Ollama)
 Embeddings: all-MiniLM-L6-v2  
 ## Data Flow
 ![RAG Pipeline](dfd.png)
+## Demo
+![Demo Screenshot](demo_media/demo_screenshot.jpg)
